@@ -64,11 +64,4 @@ Description of your project.
 
 ## Usage
 
-Describe how to use your app.
-
-## License
-
-Specify your license (e.g., MIT, Apache 2.0).
-```
-
-Feel free to adjust the instructions and content based on your specific project requirements.
+Simply run the app with steps above and search for any stock add it to watchlist which is unique to each user.
