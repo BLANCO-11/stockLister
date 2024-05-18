@@ -213,7 +213,7 @@ const Dashboard: React.FC = () => {
 
       {searchResults.length > 0 && (
         <Paper ref={searchRef} className="w-2/3" elevation={3} style={{ maxHeight: '250px', overflowY: 'auto', margin: '10px 0' }}>
-          <Typography className="bg-blue-600" variant="h3">Search Results</Typography>
+          <Typography className="" variant="h3">Search Results</Typography>
           <List>
             {searchResults.slice(0, 15).map((stock) => (
               <ListItem className="hover:bg-purple-100" key={stock.symbol}>
